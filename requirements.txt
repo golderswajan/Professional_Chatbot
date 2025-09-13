@@ -1,0 +1,6 @@
+gradio==5.45.0
+python-dotenv
+openai
+requests
+base64
+json
